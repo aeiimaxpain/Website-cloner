@@ -37,3 +37,15 @@ git clone https://github.com/aeiimaxpain/Website-cloner.git
 cd ethical-website-cloner
 pip install -r requirements.txt
 
+```
+
+### Example 
+```bash
+example.com/
+├── index.html
+├── css/
+├── js/
+└── images/
+
+```
+
